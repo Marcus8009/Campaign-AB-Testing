@@ -1,8 +1,7 @@
 ### Summary of A/B Test Analysis
 
 This notebook performs an A/B test analysis on two groups: control and test. 
-The dataset is from Kaggle.
-https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset
+The dataset is from Kaggle (https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset).
 Here's a summary of the key steps and findings:
 
 #### Steps:
