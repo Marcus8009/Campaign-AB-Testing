@@ -37,7 +37,7 @@ Here's a summary of the key steps and findings:
 #### Findings:
 
 - **Significant Differences**:
-  - **Spending [USD]**: Test group spent more on average.
+  - **Spending [USD]**: Test group spent less on average.
   - **Number of Impressions**: Test group had more impressions.
   - **Reach**: Test group had higher reach.
   - **Number of Adds to Cart**: Test group had more adds to cart.
@@ -50,4 +50,4 @@ Here's a summary of the key steps and findings:
 
 #### Conclusion:
 
-The A/B testing results indicate significant differences between the control and test groups for spending, impressions, reach, and adds to cart. However, there were no significant differences in website clicks, searches, content views, or purchases. This suggests that while the test campaign was more effective in certain areas, it did not significantly impact all metrics.
+The A/B testing results indicate significant differences between the control and test groups for spending, impressions, reach, and adds to cart. However, there were no significant differences in website clicks, searches, content views, or purchases. The test group did reduce spending, therefore there should be consideration on whether the benefits seen outweigh the costs.
