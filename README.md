@@ -5,6 +5,7 @@ This notebook performs an A/B test analysis on two groups from a marketing datas
 The dataset is from Kaggle: A/B Testing Dataset (https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset).
 
 Here's a summary of the key steps and findings:
+
 #### Steps:
 
 1. **Environment Setup**:
@@ -48,6 +49,17 @@ Here's a summary of the key steps and findings:
   - **Number of Content Views**
   - **Number of Purchases**
 
+
+
 #### Conclusion:
 
 The A/B testing results indicate significant differences between the control and test groups for spending, impressions, reach, and adds to cart. However, there were no significant differences in website clicks, searches, content views, or purchases. The test group did reduce spending, therefore there should be consideration on whether the benefits seen outweigh the costs.
+
+
+#### Extra:
+Analysis of conversion percentage between test and campaign groups are also done. This was done in a  PowerBI notebook.
+The conversion percentage represents the ratio of purchases to the number of content views. 
+The Test Campaign achieved a higher conversion rate of 28.05% compared to the Control Campaign's 26.90%. 
+This difference is statistically significant, as indicated by the high Z score of 4.34 and a very low P-value of 7.03E-06, suggesting that the observed improvement is unlikely due to chance. 
+The Test Campaign's performance demonstrates a positive impact, with a higher conversion rate and a strong statistical power of 0.99998, indicating a high probability of detecting a true effect. 
+These results support the effectiveness of the Test Campaign over the Control Campaign.
