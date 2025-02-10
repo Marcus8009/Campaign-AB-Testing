@@ -1,6 +1,7 @@
 ### Summary of A/B Test Analysis
 
 This notebook performs an A/B test analysis on two groups from a marketing dataset: control and test.
+Extra analysis of conversion percentages between test and campaign groups are also done. This was done in a PowerBI notebook.
 
 The dataset is from Kaggle: A/B Testing Dataset (https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset).
 
@@ -57,7 +58,7 @@ The A/B testing results indicate significant differences between the control and
 
 
 #### Extra:
-Analysis of conversion percentage between test and campaign groups are also done. This was done in a  PowerBI notebook.
+Analysis of conversion percentages between test and campaign groups are also done. This was done in a  PowerBI notebook.
 The conversion percentage represents the ratio of purchases to the number of content views. 
 The Test Campaign achieved a higher conversion rate of 28.05% compared to the Control Campaign's 26.90%. 
 This difference is statistically significant, as indicated by the high Z score of 4.34 and a very low P-value of 7.03E-06, suggesting that the observed improvement is unlikely due to chance. 
